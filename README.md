@@ -1,4 +1,4 @@
-# Hacking With Swift Proje 4
+# Hacking With Swift Proje 5
 
 Bu projede anagramlar ile birlikte bir kelime oyunu yaptık. Oyunu özetler isek rastgele gelen 8 harfli kelimedeki harfleri kullanarak yeni bir kelime oluşturduk tabi her oyunda olduğu gibi bu oyununda kuralları var örneğin kelime ingilizce değilse hata mesajı fırlatıyor.
 
