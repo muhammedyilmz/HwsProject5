@@ -8,6 +8,6 @@ Bu projede anagramlar ile birlikte bir kelime oyunu yaptık. Oyunu özetler isek
 * Oyunu tekrardan başlatma fonksiyonu ekleme
 
 ##### Uygulamanın Örnek Resimleri
-![Simulator Screenshot - iPhone 16 Pro - 2024-11-09 at 17 52 19](https://github.com/user-attachments/assets/e8836a47-c1e2-40ec-9947-f9959671a95f)
-![Simulator Screenshot - iPhone 16 Pro - 2024-11-09 at 17 51 46](https://github.com/user-attachments/assets/ad5a302b-7fa2-40b4-8e1a-e79bc79dc872)
-![Simulator Screenshot - iPhone 16 Pro - 2024-11-09 at 17 51 36](https://github.com/user-attachments/assets/c5df395a-809d-4c5c-a0ad-5b5c766726ab)
+![Simulator Screenshot - iPhone 16 Pro - 2024-11-11 at 14 12 12](https://github.com/user-attachments/assets/fdb486b0-f133-4a2b-aaba-04a177e5de40)
+![Simulator Screenshot - iPhone 16 Pro - 2024-11-11 at 14 10 42](https://github.com/user-attachments/assets/0bb6634c-bf57-40df-a6ae-b076aaa2b7a2)
+![Simulator Screenshot - iPhone 16 Pro - 2024-11-11 at 14 10 52](https://github.com/user-attachments/assets/82df1d03-cabc-4b8c-bda6-f75abf3fb099)
