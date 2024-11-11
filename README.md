@@ -5,7 +5,7 @@ Bu projede anagramlar ile birlikte bir kelime oyunu yaptık. Oyunu özetler isek
 ### Ekstra istenilen ödevde ise;
 * 3 harften veya daha kısa kelimeleri kabul etmeme ve hata bildirimi verme
 * Eğer girilen kelime bize verilen ile aynı ise hata bildirimi verme
-* Oyunu tekrardan başlatma fonksiyonu ekleme
+* Oyunu tekrardan başlatma fonksiyonu ekleme.
 
 ##### Uygulamanın Örnek Resimleri
 ![Simulator Screenshot - iPhone 16 Pro - 2024-11-11 at 14 12 12](https://github.com/user-attachments/assets/fdb486b0-f133-4a2b-aaba-04a177e5de40)
